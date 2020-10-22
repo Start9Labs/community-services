@@ -1,4 +1,4 @@
-# Start9 Services
+# Start9 Service Repositories
 - [Bitcoin Core](https://github.com/Start9Labs/bitcoind-wrapper)
 - [Cups Messenger](https://github.com/Start9Labs/cups-wrapper)
 - [File Browser](https://github.com/Start9Labs/filebrowser-wrapper)
