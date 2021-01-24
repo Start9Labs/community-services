@@ -4,3 +4,8 @@
 - [File Browser](https://github.com/Start9Labs/filebrowser-wrapper)
 - [Bitcoin Proxy](https://github.com/Start9Labs/btc-rpc-proxy-wrapper)
 - [c-lightning](https://github.com/Start9Labs/c-lightning-wrapper)
+- [spark-wallet](https://github.com/Start9Labs/spark-wallet-wrapper)
+- [lnd](https://github.com/Start9Labs/lnd-wrapper)
+- [ride-the-lightning](https://github.com/Start9Labs/ride-the-lightning-wrapper)
+- [hello-world](https://github.com/Start9Labs/hello-world-wrapper)
+- [pastebin](https://github.com/Start9Labs/pastebin-wrapper)
