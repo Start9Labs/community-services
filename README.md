@@ -3,6 +3,7 @@
 - [Bitcoin Proxy](https://github.com/Start9Labs/btc-rpc-proxy-wrapper)
 - [BTCPay Server](https://github.com/Start9Labs/btcpayserver-wrapper)
 - [Burn After Reading](https://github.com/Start9Labs/burn-after-reading)
+- [BWT](https://github.com/Start9Labs/bwt-wrapper)
 - [c-lightning](https://github.com/Start9Labs/c-lightning-wrapper)
 - [Cups Messenger](https://github.com/Start9Labs/cups-wrapper)
 - [Embassy Pages](https://github.com/Start9Labs/embassy-pages-wrapper)
