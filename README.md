@@ -23,3 +23,9 @@
 ## Under Construction
 - [BWT](https://github.com/Start9Labs/bwt-wrapper)
 - [Pastebin](https://github.com/Start9Labs/pastebin-wrapper)
+
+# Community Service Repositories
+
+## Under Construction
+- [Electrs](https://github.com/chrisguida/electrs-wrapper)
+- [IPFS](https://github.com/chrisguida/ipfs-wrapper)
