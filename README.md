@@ -20,7 +20,7 @@
 - [Thunderhub](https://github.com/Start9Labs/thunderhub-wrapper)
 - [Vaultwarden](https://github.com/Start9Labs/bitwarden-wrapper)
 - [Mempool](https://github.com/Start9Labs/mempool-wrapper)
-- [Syncthing] (https://github.com/Start9Labs/syncthing-wrapper)
+- [Syncthing](https://github.com/Start9Labs/syncthing-wrapper)
 
 ## Under Construction
 - [BWT](https://github.com/Start9Labs/bwt-wrapper)
