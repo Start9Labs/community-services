@@ -19,12 +19,13 @@
 - [Synapse](https://github.com/Start9Labs/synapse-wrapper)
 - [Thunderhub](https://github.com/Start9Labs/thunderhub-wrapper)
 - [Vaultwarden](https://github.com/Start9Labs/bitwarden-wrapper)
+- [Mempool](https://github.com/Start9Labs/mempool-wrapper)
+- [Syncthing] (https://github.com/Start9Labs/syncthing-wrapper)
 
 ## Under Construction
 - [BWT](https://github.com/Start9Labs/bwt-wrapper)
 - [Cwtch](https://github.com/Start9Labs/cwtch-wrapper)
 - [LNDg](https://github.com/Start9Labs/lndg-wrapper)
-- [Mempool](https://github.com/Start9Labs/mempool-wrapper)
 - [Pastebin](https://github.com/Start9Labs/pastebin-wrapper)
 
 # Community Service Repositories
