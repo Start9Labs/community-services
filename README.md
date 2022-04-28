@@ -12,15 +12,15 @@
 - [Hello World](https://github.com/Start9Labs/hello-world-wrapper)
 - [LND](https://github.com/Start9Labs/lnd-wrapper)
 - [Mastodon](https://github.com/Start9Labs/mastodon-wrapper)
+- [Mempool](https://github.com/Start9Labs/mempool-wrapper)
 - [Photoview](https://github.com/Start9Labs/embassyos-photoview-wrapper)
 - [Ride the Lightning](https://github.com/Start9Labs/ride-the-lightning-wrapper)
 - [Spark Wallet](https://github.com/Start9Labs/spark-wallet-wrapper)
 - [Sphinx Chat](https://github.com/Start9Labs/sphinx-relay-wrapper)
 - [Synapse](https://github.com/Start9Labs/synapse-wrapper)
+- [Syncthing](https://github.com/Start9Labs/syncthing-wrapper)
 - [Thunderhub](https://github.com/Start9Labs/thunderhub-wrapper)
 - [Vaultwarden](https://github.com/Start9Labs/bitwarden-wrapper)
-- [Mempool](https://github.com/Start9Labs/mempool-wrapper)
-- [Syncthing](https://github.com/Start9Labs/syncthing-wrapper)
 
 ## Under Construction
 - [BWT](https://github.com/Start9Labs/bwt-wrapper)
