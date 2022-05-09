@@ -25,15 +25,17 @@
 ## Under Construction
 - [BWT](https://github.com/Start9Labs/bwt-wrapper)
 - [Cwtch](https://github.com/Start9Labs/cwtch-wrapper)
+- [Electrs](https://github.com/Start9Labs/electrs-wrapper)
 - [LNDg](https://github.com/Start9Labs/lndg-wrapper)
 - [Pastebin](https://github.com/Start9Labs/pastebin-wrapper)
 
 # Community Service Repositories
 
 ## Under Construction
-- [Electrs](https://github.com/chrisguida/electrs-wrapper)
+- [Agora](https://github.com/yzernik/agora-wrapper)
 - [IPFS](https://github.com/chrisguida/ipfs-wrapper)
 - [Lightning Loop](https://github.com/cryptodread/loop-wrapper)
 - [Lightning Pool](https://github.com/cryptodread/pool-wrapper)
 - [Lightning Terminal](https://github.com/cryptodread/lightning-terminal-wrapper)
 - [LndHub](https://github.com/cryptodread/LndHub-wrapper)
+- [Squeaknode](https://github.com/squeaknode/squeaknode-wrapper)
