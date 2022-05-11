@@ -7,6 +7,7 @@
 - [Burn After Reading](https://github.com/Start9Labs/burn-after-reading)
 - [c-lightning](https://github.com/Start9Labs/c-lightning-wrapper)
 - [Cups Messenger](https://github.com/Start9Labs/cups-wrapper)
+- [Electrs](https://github.com/Start9Labs/electrs-wrapper)
 - [Embassy Pages](https://github.com/Start9Labs/embassy-pages-wrapper)
 - [File Browser](https://github.com/Start9Labs/filebrowser-wrapper)
 - [Hello World](https://github.com/Start9Labs/hello-world-wrapper)
@@ -25,7 +26,6 @@
 ## Under Construction
 - [BWT](https://github.com/Start9Labs/bwt-wrapper)
 - [Cwtch](https://github.com/Start9Labs/cwtch-wrapper)
-- [Electrs](https://github.com/Start9Labs/electrs-wrapper)
 - [LNDg](https://github.com/Start9Labs/lndg-wrapper)
 - [Pastebin](https://github.com/Start9Labs/pastebin-wrapper)
 
