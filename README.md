@@ -30,7 +30,6 @@
 ## Under Construction
 - [BWT](https://github.com/Start9Labs/bwt-wrapper)
 - [Cwtch](https://github.com/Start9Labs/cwtch-wrapper)
-- [ddclient](https://github.com/Start9Labs/ddclient-wrapper)
 - [Pastebin](https://github.com/Start9Labs/pastebin-wrapper)
 - [Specter](https://github.com/Start9Labs/specter-wrapper)
 
